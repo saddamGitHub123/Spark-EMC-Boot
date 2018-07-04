@@ -6,8 +6,8 @@ package com.backend.restbackend;
  */
 public class App 
 {
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+    
+	public String testBackEnd() {
+		return " Return valur from backEnd";
+	}
 }
